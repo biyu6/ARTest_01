@@ -20,4 +20,4 @@
 
 ```
 
-![image](https://github.com/biyu6/ARTest01/blob/master/ARShowHow.png)
+![image](https://github.com/biyu6/ARTest01/blob/master/ARShowHow.PNG)
